@@ -65,6 +65,34 @@ The **smooth experience of completing the task** is UX.
 
 ---
 
+# ⌨️ Figma Shortcut Keys
+
+Figma provides many shortcut keys that help designers **work faster and improve productivity**.
+
+| Action | Shortcut |
+|------|------|
+| Move Tool | V |
+| Frame Tool | F |
+| Rectangle Tool | R |
+| Text Tool | T |
+| Line Tool | L |
+| Hand Tool | H |
+| Zoom Tool | Z |
+| Duplicate | Ctrl + D |
+| Group | Ctrl + G |
+| Ungroup | Ctrl + Shift + G |
+| Copy | Ctrl + C |
+| Paste | Ctrl + V |
+| Undo | Ctrl + Z |
+| Redo | Ctrl + Shift + Z |
+| Show/Hide UI | Ctrl + \ |
+| Zoom In | Ctrl + + |
+| Zoom Out | Ctrl + - |
+
+Using these shortcuts helps designers **work faster and design more efficiently**.
+
+---
+
 # 📱 UI/UX Responsive Design Constraints
 
 In UI/UX tools like **Figma, Adobe XD, and Sketch**, constraints control how UI elements behave when the **screen size changes**. This helps designers create **responsive layouts**.
