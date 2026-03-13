@@ -14,6 +14,55 @@ Google Material Icons provides a large collection of **free, high-quality icons*
 
 ---
 
+# 🎨 What is UI/UX?
+
+## UI (User Interface)
+
+UI refers to the **visual part of a product** that users interact with.  
+It focuses on **layout, colors, typography, icons, buttons, and visual elements**.
+
+### UI Example
+Example elements in UI design:
+
+- Buttons
+- Navigation bars
+- Icons
+- Forms
+- Cards
+- Colors and typography
+
+Example:
+
+A **login page design** with:
+- Email input field
+- Password input field
+- Login button
+
+All the **visual elements users see** are part of **UI**.
+
+---
+
+## UX (User Experience)
+
+UX refers to the **overall experience a user has while using a product**.  
+It focuses on **usability, user journey, and how easy it is to complete tasks**.
+
+### UX Example
+
+Example:
+
+If a user wants to **order food using a mobile app**:
+
+Good UX means:
+- The user can find food quickly
+- The ordering process is simple
+- Payment is easy
+- Confirmation is clear
+
+The **smooth experience of completing the task** is UX.
+
+---
+
 # 📱 UI/UX Responsive Design Constraints
 
 In UI/UX tools like **Figma, Adobe XD, and Sketch**, constraints control how UI elements behave when the **screen size changes**. This helps designers create **responsive layouts**.
@@ -76,9 +125,11 @@ Example:
 Most professional UI designs use a **grid system** to maintain alignment and consistency.
 
 ### 8px Spacing System
+
 Designers commonly use **8px spacing increments**.
 
 Common spacing values:
+
 - 8px
 - 16px
 - 24px
@@ -87,6 +138,7 @@ Common spacing values:
 - 64px
 
 Benefits:
+
 - Consistent spacing
 - Clean visual structure
 - Easier responsive scaling
@@ -132,6 +184,7 @@ Examples:
 Designs should be accessible to **all users**.
 
 Best practices:
+
 - Use **high color contrast**
 - Minimum **16px text size**
 - Clear button labels
@@ -160,6 +213,13 @@ This repository helps to:
 - Provide **quick design references**
 - Learn **UI/UX best practices**
 - Improve **responsive design knowledge**
+
+---
+
+# 📝 Note
+
+This repository is created to **collect and organize useful UI/UX resources and knowledge**.  
+It can help designers and developers quickly access **design references, tools, and best practices** for building better user interfaces and experiences.
 
 ---
 
