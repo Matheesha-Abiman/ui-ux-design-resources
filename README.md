@@ -49,6 +49,15 @@ Icons8 helps designers quickly find **consistent icons for modern UI projects**.
 
 ---
 
+## 🧊 Blend (3D Design Plugin)
+
+Blend is a **Figma plugin used to create 3D-style effects and layered visual designs**.  
+It helps designers generate **depth, smooth transitions, and 3D-like compositions** inside UI designs.
+
+Blend helps designers create **more visually engaging and modern UI designs with 3D-style effects**.
+
+---
+
 # 🎨 What is UI/UX?
 
 ## UI (User Interface)
