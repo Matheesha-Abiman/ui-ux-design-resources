@@ -14,6 +14,18 @@ Google Material Icons provides a large collection of **free, high-quality icons*
 
 ---
 
+# 🔌 Figma Plugins
+
+Figma plugins help designers **speed up their workflow, generate design assets, and improve productivity**.
+
+## 🎨 Colorsinspo (Color Palette Plugin)
+
+Colorsinspo is a **color palette generator plugin** used in Figma to quickly find beautiful and modern color combinations for UI design.
+
+This plugin helps designers choose **better color combinations quickly**.
+
+---
+
 # 🎨 What is UI/UX?
 
 ## UI (User Interface)
