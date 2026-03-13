@@ -443,6 +443,18 @@ Benefits of Version History:
 
 This feature helps designers **safely experiment with changes without losing previous designs**.
 
+### Design System in Figma
+
+A **Design System in Figma** is a structured collection of reusable design elements used to build consistent UI designs.
+
+It usually includes:
+
+- **Atoms** – Basic elements like buttons, text, icons, and inputs  
+- **Molecules** – Small components made from atoms (example: search bar)  
+- **Organisms** – Larger UI sections built using molecules (example: navbar, forms)
+
+Using a design system helps teams maintain **consistency, faster design workflow, and scalable UI development**.
+
 ---
 
 # 👨‍💻 Author
