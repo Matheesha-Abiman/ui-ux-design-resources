@@ -22,21 +22,22 @@ UI refers to the **visual part of a product** that users interact with.
 It focuses on **layout, colors, typography, icons, buttons, and visual elements**.
 
 ### UI Example
+
 Example elements in UI design:
 
-- Buttons
-- Navigation bars
-- Icons
-- Forms
-- Cards
-- Colors and typography
+- Buttons  
+- Navigation bars  
+- Icons  
+- Forms  
+- Cards  
+- Colors and typography  
 
 Example:
 
 A **login page design** with:
-- Email input field
-- Password input field
-- Login button
+- Email input field  
+- Password input field  
+- Login button  
 
 All the **visual elements users see** are part of **UI**.
 
@@ -54,10 +55,11 @@ Example:
 If a user wants to **order food using a mobile app**:
 
 Good UX means:
-- The user can find food quickly
-- The ordering process is simple
-- Payment is easy
-- Confirmation is clear
+
+- The user can find food quickly  
+- The ordering process is simple  
+- Payment is easy  
+- Confirmation is clear  
 
 The **smooth experience of completing the task** is UX.
 
@@ -71,52 +73,52 @@ In UI/UX tools like **Figma, Adobe XD, and Sketch**, constraints control how UI 
 Element remains fixed to the **left side** of the container.
 
 Example:
-- Sidebar navigation
-- Logo placement
+- Sidebar navigation  
+- Logo placement  
 
 ### Right Constraint
 Element stays attached to the **right side**.
 
 Example:
-- Profile icon
-- Notification button
+- Profile icon  
+- Notification button  
 
 ### Top Constraint
 Element stays attached to the **top edge** of the screen.
 
 Example:
-- Navigation bar
-- Header
+- Navigation bar  
+- Header  
 
 ### Bottom Constraint
 Element stays attached to the **bottom edge**.
 
 Example:
-- Mobile bottom navigation
-- Footer
+- Mobile bottom navigation  
+- Footer  
 
 ### Left & Right Constraint
 Element **stretches horizontally** when screen width changes.
 
 Example:
-- Search bars
-- Input fields
-- Cards
+- Search bars  
+- Input fields  
+- Cards  
 
 ### Top & Bottom Constraint
 Element **stretches vertically** when screen height changes.
 
 Example:
-- Background sections
-- Panels
+- Background sections  
+- Panels  
 
 ### Center Constraint
 Element remains **centered** regardless of screen size.
 
 Example:
-- Modals
-- Login forms
-- Landing page titles
+- Modals  
+- Login forms  
+- Landing page titles  
 
 ---
 
@@ -130,18 +132,18 @@ Designers commonly use **8px spacing increments**.
 
 Common spacing values:
 
-- 8px
-- 16px
-- 24px
-- 32px
-- 48px
-- 64px
+- 8px  
+- 16px  
+- 24px  
+- 32px  
+- 48px  
+- 64px  
 
 Benefits:
 
-- Consistent spacing
-- Clean visual structure
-- Easier responsive scaling
+- Consistent spacing  
+- Clean visual structure  
+- Easier responsive scaling  
 
 ---
 
@@ -173,9 +175,10 @@ Avoid clutter. Keep interfaces **clean and minimal**.
 Always give feedback for user actions.
 
 Examples:
-- Hover effects
-- Loading indicators
-- Success messages
+
+- Hover effects  
+- Loading indicators  
+- Success messages  
 
 ---
 
@@ -185,11 +188,11 @@ Designs should be accessible to **all users**.
 
 Best practices:
 
-- Use **high color contrast**
-- Minimum **16px text size**
-- Clear button labels
-- Keyboard navigation support
-- Alt text for images
+- Use **high color contrast**  
+- Minimum **16px text size**  
+- Clear button labels  
+- Keyboard navigation support  
+- Alt text for images  
 
 ---
 
@@ -197,11 +200,11 @@ Best practices:
 
 Common design tools:
 
-- Figma
-- Adobe XD
-- Sketch
-- Framer
-- Canva
+- Figma  
+- Adobe XD  
+- Sketch  
+- Framer  
+- Canva  
 
 ---
 
@@ -209,9 +212,9 @@ Common design tools:
 
 This repository helps to:
 
-- Save **important UI/UX resource links**
-- Provide **quick design references**
-- Learn **UI/UX best practices**
+- Save **important UI/UX resource links**  
+- Provide **quick design references**  
+- Learn **UI/UX best practices**  
 - Improve **responsive design knowledge**
 
 ---
@@ -220,6 +223,34 @@ This repository helps to:
 
 This repository is created to **collect and organize useful UI/UX resources and knowledge**.  
 It can help designers and developers quickly access **design references, tools, and best practices** for building better user interfaces and experiences.
+
+### UI Components Concept
+
+In modern UI/UX design tools like **Figma**, designers often create **reusable components**.
+
+A **component** is a design element created once and reused multiple times across a design.
+
+Example:
+
+If a designer creates a **button component**, it can be reused everywhere in the design such as:
+
+- Login button  
+- Submit button  
+- Signup button  
+- Confirm button  
+
+Instead of designing the button again and again, the **same component can be reused**.
+
+Benefits of using components:
+
+- Saves design time  
+- Keeps UI consistent  
+- Easy to update designs  
+- Improves workflow efficiency  
+
+For example, if the **button color or style changes**, updating the **main component** will automatically update all buttons that use that component.
+
+This makes UI design **faster, cleaner, and more maintainable**.
 
 ---
 
