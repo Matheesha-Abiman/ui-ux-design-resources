@@ -424,6 +424,25 @@ Benefits of Auto Layout:
 
 Auto Layout is an essential feature for building **modern and responsive UI designs in Figma**.
 
+### Version History
+
+In Figma, **Version History** allows designers to track and manage changes made to a design file over time.
+
+It automatically saves different versions of the design, so you can **view previous edits or restore an older version** if needed.
+
+Example:
+
+If you change a layout or component and later decide that the **previous design was better**, you can open **Version History** and restore that earlier version.
+
+Benefits of Version History:
+
+- Track **design changes over time**
+- Restore **previous versions of a design**
+- Compare **old and new designs**
+- Prevent losing important work
+
+This feature helps designers **safely experiment with changes without losing previous designs**.
+
 ---
 
 # 👨‍💻 Author
