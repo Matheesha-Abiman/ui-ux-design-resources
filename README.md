@@ -385,6 +385,45 @@ If the **main component in the library is updated**, all designs using that comp
 
 This helps teams build **scalable, consistent, and well-organized UI systems**.
 
+### Auto Layout
+
+**Auto Layout** is a powerful feature in Figma that helps designers create **flexible and responsive UI layouts automatically**.
+
+It allows elements to **resize, align, and adjust spacing automatically** when content changes.
+
+Example:
+
+If you create a **button with text using Auto Layout**, and later change the text from:
+
+`Login` → `Sign in to Account`
+
+the **button will automatically expand** to fit the new text.
+
+Common uses of Auto Layout:
+
+- Buttons  
+- Navigation menus  
+- Cards  
+- Lists  
+- Forms  
+- Dynamic UI components  
+
+Key features of Auto Layout:
+
+- **Automatic spacing** between elements  
+- **Dynamic resizing** based on content  
+- **Padding control** inside components  
+- **Responsive alignment** for UI elements  
+
+Benefits of Auto Layout:
+
+- Makes UI designs **responsive**
+- Saves **design time**
+- Helps create **scalable components**
+- Improves **design consistency**
+
+Auto Layout is an essential feature for building **modern and responsive UI designs in Figma**.
+
 ---
 
 # 👨‍💻 Author
