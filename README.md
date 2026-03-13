@@ -33,6 +33,22 @@ This plugin helps designers choose **better color combinations quickly**.
 
 ---
 
+## 🧩 Iconsout (Icons Plugin)
+
+Iconsout provides a large collection of **modern UI icons and illustrations** that designers can easily use in their designs.
+
+This plugin helps designers quickly add **professional icons and illustrations** to their UI designs.
+
+---
+
+## 🎯 Icons8 (Icons Plugin)
+
+Icons8 is a popular design resource that provides **icons, illustrations, photos, and design assets**.
+
+Icons8 helps designers quickly find **consistent icons for modern UI projects**.
+
+---
+
 # 🎨 What is UI/UX?
 
 ## UI (User Interface)
