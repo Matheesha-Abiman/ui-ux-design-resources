@@ -14,6 +14,13 @@ Google Material Icons provides a large collection of **free, high-quality icons*
 
 ---
 
+## MaterialUI.co
+https://materialui.co  
+
+MaterialUI.co provides a collection of **ready-to-use UI components, design inspiration, and Material Design resources** for designers and developers.
+
+---
+
 # 🔌 Figma Plugins
 
 Figma plugins help designers **speed up their workflow, generate design assets, and improve productivity**.
