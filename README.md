@@ -324,6 +324,32 @@ For example, if the **button color or style changes**, updating the **main compo
 
 This makes UI design **faster, cleaner, and more maintainable**.
 
+### Component Instance
+
+In Figma, when a component is created, designers can use **instances** of that component throughout the design.
+
+An **instance** is a copy of the main component that stays connected to it.
+
+Example:
+
+If you create a **Button Component**, you can place many **button instances** across different screens such as:
+
+- Login screen  
+- Signup screen  
+- Dashboard  
+- Settings page  
+
+If the **main component is updated** (for example changing the color, font, or size), all the **instances will automatically update**.
+
+Benefits of component instances:
+
+- Maintain **design consistency**
+- Faster design workflow
+- Easy to manage UI elements
+- Global updates across the design
+
+This makes UI design **more scalable and easier to maintain**.
+
 ---
 
 # 👨‍💻 Author
