@@ -451,7 +451,8 @@ It usually includes:
 
 - **Atoms** – Basic elements like buttons, text, icons, and inputs  
 - **Molecules** – Small components made from atoms (example: search bar)  
-- **Organisms** – Larger UI sections built using molecules (example: navbar, forms)
+- **Organisms** – Larger UI sections built using molecules (example: navbar, forms)  
+- **Templates** – Pre-designed page layouts created using organisms and components (example: dashboard layout, login page, landing page)
 
 Using a design system helps teams maintain **consistency, faster design workflow, and scalable UI development**.
 
