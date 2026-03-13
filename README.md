@@ -350,6 +350,41 @@ Benefits of component instances:
 
 This makes UI design **more scalable and easier to maintain**.
 
+### Component Libraries
+
+A **Component Library** is a collection of reusable UI components that designers and developers can use across multiple projects.
+
+In tools like **Figma**, designers can create a library that contains commonly used components such as:
+
+- Buttons  
+- Input fields  
+- Navigation bars  
+- Cards  
+- Modals  
+- Icons  
+
+These components can be **shared and reused across different files and teams**.
+
+Example:
+
+A company design system may include a **Button Component Library** with:
+
+- Primary button  
+- Secondary button  
+- Disabled button  
+- Icon button  
+
+Benefits of using component libraries:
+
+- Maintain **design consistency across projects**
+- Faster **design and development workflow**
+- Easy to **share components with teams**
+- Centralized **design system management**
+
+If the **main component in the library is updated**, all designs using that component can **automatically receive the update**.
+
+This helps teams build **scalable, consistent, and well-organized UI systems**.
+
 ---
 
 # 👨‍💻 Author
