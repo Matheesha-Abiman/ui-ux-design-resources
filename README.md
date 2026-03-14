@@ -456,6 +456,214 @@ It usually includes:
 
 Using a design system helps teams maintain **consistency, faster design workflow, and scalable UI development**.
 
+### Wireframing
+
+Wireframing is the process of creating **basic layout structures** for a user interface before adding visual design.
+
+Wireframes focus on **structure and functionality**, not colors or detailed styling.
+
+Example wireframe elements:
+
+- Page layout
+- Content sections
+- Navigation structure
+- Button placement
+- Form structure
+
+Benefits of wireframing:
+
+- Helps plan UI layout
+- Improves user flow planning
+- Saves design time before high-fidelity design
+- Helps teams discuss product structure
+
+---
+
+### Prototyping
+
+Prototyping is the process of creating **interactive versions of a design** to simulate how a product works.
+
+Designers connect screens and add interactions to demonstrate **user flows and navigation**.
+
+Examples of prototype interactions:
+
+- Button click navigation
+- Page transitions
+- Hover effects
+- Scrolling behavior
+
+Benefits of prototyping:
+
+- Test product ideas before development
+- Improve user experience
+- Identify usability problems early
+- Communicate design ideas clearly
+
+---
+
+### User Flow
+
+A **User Flow** shows the path a user takes to complete a task in a product.
+
+Example:
+
+User wants to **buy a product online**:
+
+1. Open homepage  
+2. Search product  
+3. View product details  
+4. Add to cart  
+5. Checkout  
+6. Payment  
+7. Order confirmation  
+
+User flows help designers understand **how users move through a system**.
+
+---
+
+### Information Architecture (IA)
+
+Information Architecture is the process of **organizing and structuring content** in a product.
+
+It focuses on making information **easy to find and understand**.
+
+Examples:
+
+- Website navigation structure
+- Menu organization
+- Page hierarchy
+- Content grouping
+
+Good information architecture improves **usability and user experience**.
+
+---
+
+### Typography in UI Design
+
+Typography refers to the **style and arrangement of text** in a design.
+
+Important typography elements:
+
+- Font family
+- Font size
+- Line height
+- Letter spacing
+- Font weight
+
+Common UI font sizes:
+
+- Heading: 24px – 40px  
+- Subheading: 18px – 24px  
+- Body text: 16px  
+- Small text: 12px – 14px  
+
+Good typography improves **readability and visual hierarchy**.
+
+---
+
+### Color System
+
+A **Color System** defines how colors are used consistently in a design.
+
+Typical UI color categories:
+
+- Primary color
+- Secondary color
+- Accent color
+- Background color
+- Text color
+- Error color
+- Success color
+- Warning color
+
+Using a color system helps maintain **visual consistency across a product**.
+
+---
+
+### UX Research
+
+UX Research helps designers understand **user needs, behaviors, and problems**.
+
+Common UX research methods:
+
+- User interviews
+- Surveys
+- Usability testing
+- User feedback
+- Analytics data
+
+Research helps designers create **better user-centered designs**.
+
+---
+
+### Usability Testing
+
+Usability testing evaluates how easily users can **use and interact with a product**.
+
+Example usability tests:
+
+- Task completion test
+- Navigation testing
+- Prototype testing
+- User observation
+
+Benefits:
+
+- Identify usability issues
+- Improve product usability
+- Validate design decisions
+
+---
+
+### Design Handoff
+
+Design handoff is the process of **delivering design files to developers for implementation**.
+
+Tools commonly used for design handoff:
+
+- Figma
+- Zeplin
+- Avocode
+
+Information provided during handoff:
+
+- Spacing
+- Typography
+- Colors
+- Component specifications
+- Design assets
+
+Good handoff improves **developer collaboration and implementation accuracy**.
+
+---
+
+### UI/UX Career Roles
+
+Common roles in UI/UX:
+
+- UI Designer
+- UX Designer
+- Product Designer
+- Interaction Designer
+- UX Researcher
+- Design System Designer
+
+Each role focuses on **different aspects of the user experience and interface design**.
+
+---
+
+### UI/UX Learning Resources
+
+Popular places to learn UI/UX:
+
+- Figma Community
+- Dribbble
+- Behance
+- UX Design Institute
+- Google UX Design Course
+
+These platforms provide **design inspiration, tutorials, and UI resources**.
+
 ---
 
 # 👨‍💻 Author
