@@ -92,6 +92,25 @@ All-in-one **icons, illustrations, photos**
 
 ---
 
+## 🔤 Font Changer (Typography Plugin)  
+
+Font Changer is a useful Figma plugin that allows designers to **quickly replace fonts across the entire design**.  
+
+Instead of changing text one by one, this plugin can **update all text layers to a selected font in one click**.  
+
+✔ Change entire design font instantly  
+✔ Maintain consistency across UI  
+✔ Save time on typography updates  
+✔ Useful for redesigns and design systems  
+
+**Use cases:**  
+- Switching to a new brand font  
+- Applying a consistent typography system  
+- Updating old UI designs  
+- Rapid design iteration  
+
+👉 This plugin is especially helpful when working with **large design files or design systems**.
+
 ## 🧊 Blend (3D Plugin)  
 Create **3D-style UI visuals and depth effects**  
 
